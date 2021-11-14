@@ -50,6 +50,7 @@ body {
     @extend .main_paragraph1;
     &:hover {
       color: $accent-color;
+      margin: 0px;
     }
   }
 

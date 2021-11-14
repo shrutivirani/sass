@@ -38,6 +38,7 @@ body {
 
 .main .main_paragraph2:hover {
   color: #ff652f;
+  margin: 0px;
 }
 
 @media (max-width: 800px) {
